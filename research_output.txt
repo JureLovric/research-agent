@@ -1,0 +1,90 @@
+--- Research Output ---
+Timestamp: 2025-10-08 13:39:09
+
+{
+  "topic": "Bosnia and Herzegovina Population",
+  "summary": "Bosnia and Herzegovina has a population of around 3.5 million as of 2022. The largest ethnic groups are Bosniaks (around 50%), Serbs (around 35%), and Croats (around 15%). The population is concentrated in the major cities of Sarajevo, Banja Luka, Tuzla, and Mostar. Bosnia has experienced significant population changes due to the Bosnian War in the 1990s, with large numbers of refugees and displaced persons.",
+  "sources": ["https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"],
+  "tools_used": ["Wikipedia"]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 13:42:01
+
+{
+  "topic": "Bosnia and Herzegovina population",
+  "summary": "The population of Bosnia and Herzegovina as of 2022 is approximately 3.28 million. The population is ethnically diverse, with Bosniaks making up around 50%, Serbs 35%, and Croats 15%. The largest city is Sarajevo with around 435,000 residents. Bosnia's population has declined since the 1990s due to the Bosnian War and emigration, down from 4.3 million in 1991. The population is also aging, with around 18% over 65.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+  ],
+  "tools_used": [
+    "wikipedia"
+  ]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 13:44:37
+
+{
+  "topic": "Bosnia Population",
+  "summary": "The population of Bosnia and Herzegovina was estimated to be around 3.3 million as of 2022, with Bosniaks making up 50.1% of the population, Serbs 34.3%, Croats 15.4%, and others 0.2%. The population is 49.2% urbanized.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+  ],
+  "tools_used": [
+    "wikipedia"
+  ]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 13:48:43
+
+{
+  "topic": "Bosnia and Herzegovina Population",
+  "summary": "Bosnia and Herzegovina has a population of approximately 3.3 million as of 2022. The population is composed of Bosniaks (around 50%), Serbs (around 35%), and Croats (around 15%). The largest city and capital is Sarajevo, with a population of around 300,000 in the city proper and over 500,000 in the metropolitan area.",
+  "sources": ["https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"],
+  "tools_used": ["wikipedia"]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 13:52:32
+
+{
+  "topic": "Bosnia population",
+  "summary": "Bosnia and Herzegovina has a total population of around 3.3 million as of 2022. The largest ethnic groups are Bosniaks (Bosnian Muslims) at around 50%, Serbs (Orthodox Christians) at around 35%, and Croats (Catholics) at around 15%. The population is declining due to low birth rates and emigration. The population is concentrated in the larger cities like Sarajevo, Banja Luka, Tuzla, and Mostar.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+  ],
+  "tools_used": [
+    "wikipedia"
+  ]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 13:58:41
+
+{
+  "topic": "Bosnia and Herzegovina Population",
+  "summary": "Bosnia and Herzegovina has a population of approximately 3.3 million as of 2022. The country's population is ethnically diverse, with Bosniaks making up the largest group at 50.1%, followed by Serbs at 34.5% and Croats at 15.4%. The population has a relatively low growth rate of -0.05% and is 49.3% urbanized.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+  ],
+  "tools_used": [
+    "wikipedia"
+  ]
+}
+
+--- Research Output ---
+Timestamp: 2025-10-08 14:00:31
+
+{
+  "topic": "Bosnia population",
+  "summary": "Bosnia and Herzegovina has a population of around 3.3 million people as of 2022. The largest ethnic groups are Bosniaks (Bosnian Muslims) at around 50% of the population, Serbs (Orthodox Christians) at around 35%, and Croats (Catholics) at around 15%. The population is concentrated in the country's two main entities - the Federation of Bosnia and Herzegovina and Republika Srpska. The population has declined in recent decades due to the 1990s Bosnian War, emigration, and low birth rates.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+  ],
+  "tools_used": [
+    "wikipedia"
+  ]
+}
+
